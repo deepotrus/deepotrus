@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @deepotrus, yes i am
-- 👀 I’m interested in physics
+- 👀 I’m interested in complex systems
 - 🌱 I’m currently learning kali linux
 - 💞️ I’m not looking to collaborate
 - 📫 How to reach me? Don't
