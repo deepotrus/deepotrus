@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @deepotrus, yes i am
-- 👀 I’m interested in complex systems
-- 🌱 I’m currently learning kali linux
+- 👀 I’m interested in things
+- 🌱 I’m currently learning something
 - 💞️ I’m not looking to collaborate
 - 📫 How to reach me? Don't
 
