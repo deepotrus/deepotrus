@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @deepotrus, yes i am
+- 👋 Hi, I’m @deepotrus
 - 👀 I’m interested in things
 - 🌱 I’m currently learning something
-- 💞️ I’m not looking to collaborate
-- 📫 How to reach me? Don't
+- 💞️ I’m looking to collaborate
+- 📫 How to reach me? Here
 
 <!---
 deepotrus/deepotrus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
