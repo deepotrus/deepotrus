@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @deepotrus
-- 👀 I’m interested in things
-- 🌱 I’m currently learning something
+- 👀 I’m interested in Complex Systems, Machine Learning & AI, Linux
+- 🌱 I’m currently learning Shell programming Language
 - 💞️ I’m looking to collaborate
 - 📫 How to reach me? Here
 
