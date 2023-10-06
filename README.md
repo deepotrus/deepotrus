@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @deepotrus
-- 👀 I’m interested in Complex Systems, Machine Learning & AI, Linux
-- 🌱 I’m currently learning Shell programming Language
+- 👀 I’m interested in Complex Systems, Machine Learning & AI
+- 🌱 I’m currently learning Linux
 - 💞️ I’m looking to collaborate
-- 📫 How to reach me? Here
+- 📫 How to reach me? By email: friendly.lemur@proton.me
 
 <!---
 deepotrus/deepotrus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
