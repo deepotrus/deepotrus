@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @deepotrus
 - 👀 I’m interested in Non-Linear Systems, Machine Learning & AI
-- 🌱 I’m currently learning Linux
+- 🌱 I’m currently learning Linux!
 - 💞️ I’m looking to collaborate
 - 📫 How to reach me? By email: friendly.lemur@proton.me
