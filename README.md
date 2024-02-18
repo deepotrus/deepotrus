@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @deepotrus
-- 👀 I’m interested in Non-Linear Systems, Machine Learning & AI
-- 🌱 I’m currently learning Linux!
-- 💞️ I’m looking to collaborate
-- 📫 How to reach me? By email: friendly.lemur@proton.me
+- 👋 Hi, I'm Andrei Stelian Potra, for friends @deepotrus
+- 👀 I’m interested in Complex Systems, Data Mining & Machine Learning
+- 🌱 I’m currently learning Web Developing! 
+- 💞️ My self-hosted website: andreipotrastelian.com
+- 📫 How to reach me? By private email: potra.andrei@tutanota.com
