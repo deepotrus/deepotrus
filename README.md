@@ -1,5 +1,5 @@
 - 👋 Hi, I'm Andrei Stelian Potra, for friends @deepotrus
-- 👀 I’m interested in Complex Systems, Data Mining & Machine Learning
-- 🌱 I’m currently learning Web Developing! 
-- 💞️ My self-hosted website: andreipotrastelian.com
-- 📫 How to reach me? By private email: potra.andrei@tutanota.com
+- 👀 I’m interested in Linux, Data Mining and Machine Learning
+- 🌱 I’m currently learning working on my perfect Debian System!
+- 💞️ My self-hosted website: also working on it
+- 📫 How to reach me? By email: potra.andrei@tutanota.com
