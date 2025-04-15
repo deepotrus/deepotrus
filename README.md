@@ -1,6 +1,6 @@
 - 👋 Hi, I'm Andrei Stelian Potra, for friends @deepotrus
 - 👀 I’m interested in Linux, Data Mining and Machine Learning
-- 🌱 I’m currently learning working on my perfect Debian System!
+- 🌱 I’m currently learning working on my Debian 12 Bookworm System!
 - 💞️ My self-hosted website: also working on it
 - 📫 How to reach me? By email: potra.andrei@tutanota.com
 
