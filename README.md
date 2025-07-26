@@ -1,7 +1,14 @@
-- 👋 Hi, I'm Andrei Stelian Potra, for friends @deepotrus
-- 👀 I’m interested in Linux, Data Mining and Machine Learning
-- 🌱 I’m currently learning working on my Debian 12 Bookworm System!
-- 💞️ My self-hosted website: also working on it
+## 💫 About Me
+- 👋 Hi, I'm Andrei Stelian Potra, for friends @deepotrus<br>
+- 👀 I’m interested in Linux, Data Mining and Machine Learning<br>
+- 🌱 I’m currently looking to contribute in open source!<br>
+- 💞️ My self-hosted website: also working on it<br>
 - 📫 How to reach me? By email: potra.andrei@tutanota.com
 
-![](https://github-readme-stats.vercel.app/api?username=deepotrus&show_icons=true&include_all_commits=true&theme=city_lights&hide_title=true&hide_border=true) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=deepotrus&layout=compact&theme=city_lights&hide_border=true)
+## 💻 Tech Stack
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Vultr](https://img.shields.io/badge/Vultr-007BFC.svg?style=for-the-badge&logo=vultr) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=for-the-badge&logo=gunicorn&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![XFCE](https://img.shields.io/badge/XFCE-%232284F2.svg?style=for-the-badge&logo=xfce&logoColor=white) ![OpenGL](https://img.shields.io/badge/OpenGL-white?logo=OpenGL&style=for-the-badge)
+
+## 📊 GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=deepotrus&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+![](https://nirzak-streak-stats.vercel.app/?user=deepotrus&theme=dark&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=deepotrus&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
