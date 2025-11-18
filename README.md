@@ -1,8 +1,8 @@
 ## 💫 About Me
-- 👋 Hi, I'm Andrei Stelian Potra, for friends @deepotrus<br>
+- 👋 Hi, I'm Andrei, for friends @deepotrus<br>
 - 👀 I’m interested in Linux, Data Mining and Machine Learning<br>
-- 🌱 I’m currently looking to contribute in open source!<br>
-- 💞️ My self-hosted website: also working on it<br>
+- 🌱 I’m currently developing BudgetBash and DeepRadio!<br>
+- 💞️ My self-hosted website: andretron.xyz<br>
 - 📫 How to reach me? By email: potra.andrei@tutanota.com
 
 ## 💻 Tech Stack
@@ -10,5 +10,4 @@
 
 ## 📊 GitHub Stats
 ![](https://nirzak-streak-stats.vercel.app/?user=deepotrus&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api?username=deepotrus&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=deepotrus&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
