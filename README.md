@@ -1,8 +1,8 @@
 ## 💫 About Me
 - 👋 Hi, I'm Andrei, for friends @deepotrus<br>
-- 👀 I’m interested in Linux, Data Mining and Machine Learning<br>
+- 👀 I’m interested in Linux, Embedded Systems, FPGA<br>
 - 🌱 I’m currently developing BudgetBash and DeepRadio!<br>
-- 💞️ My self-hosted website: andretron.xyz<br>
+- 💞️ My self-hosted website: techdystopia.xyz<br>
 - 📫 How to reach me? By email: potra.andrei@tutanota.com
 
 ## 💻 Tech Stack
