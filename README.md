@@ -1,9 +1,28 @@
-## About Me
-- 👋 Hi, I'm Andrei, for friends @deepotrus<br>
-- 👀 I’m interested in Linux, Embedded Systems, FPGA<br>
-- 🌱 I’m currently developing BudgetBush!<br>
-- 💞️ My self-hosted website! [techdystopia.xyz](https://techdystopia.xyz/)<br>
-- 📫 How to reach me? By email: potra.andrei@tutanota.com
+# Andrei Stelian Potra · @deepotrus
 
-## Tech Stack
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Vultr](https://img.shields.io/badge/Vultr-007BFC.svg?style=for-the-badge&logo=vultr) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=for-the-badge&logo=gunicorn&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![XFCE](https://img.shields.io/badge/XFCE-%232284F2.svg?style=for-the-badge&logo=xfce&logoColor=white) ![OpenGL](https://img.shields.io/badge/OpenGL-white?logo=OpenGL&style=for-the-badge)
+**FPGA Engineer** in Aerospace & Defense · **MSc Physics of Complex Systems** (Turin, 110 cum laude)
+I design FPGA firmware on AMD/Xilinx devices, build DSP and data tools in Python and C, and self-host everything I can.
+
+🌐 [techdystopia.xyz](https://techdystopia.xyz) · 📫 potra.andrei@tutanota.com · 💼 [LinkedIn](https://www.linkedin.com/in/andreipotra/)
+
+## What I work on
+- **FPGA & HDL** — VHDL firmware on Artix, Kintex, Virtex, Spartan and Zynq with AMD Vivado: DMA, ADC/DAC interfaces, AXI, timing closure, multiboot redundancy
+- **DSP** — CIC filters with polyphase decomposition as custom IP cores, from math model to Python prototype to hardware
+- **ML & data** — deep learning on GPU (PyTorch, CUDA), classical ML, agent-based market simulation
+- **Linux & self-hosting** — Debian servers with nginx, Flask and Gunicorn; my own git server; riced desktops
+
+## Selected projects
+| Project | What it is | Stack |
+|---|---|---|
+| **Kria KV260 Face Detection** | Quantized CNN compiled with FINN into a Vivado IP core on Zynq UltraScale+ | FPGA · FINN · Python |
+| **ZedBoard VGA & I/O** | VGA graphics from pure FPGA logic, FMC I/O, SPI, Ethernet | VHDL · Vivado |
+| [**mas-model**](https://github.com/deepotrus/mas-model) | Multi-agent crypto market model — [**live sandbox**](https://mas.techdystopia.xyz) | Python · TypeScript |
+| [**automatac**](https://github.com/deepotrus/automatac) | Real-time order book client over WebSockets | C · libwebsockets |
+| [**BudgetBash**](https://github.com/deepotrus/budgetbash) | Terminal finance tracker with a Flask backend | Bash · Python |
+| [**DeepRadio**](https://github.com/deepotrus/deepradio) | Minimal terminal radio — [**listen on the web**](https://radio.techdystopia.xyz) | Bash · TypeScript |
+
+## Stack
+**Hardware** ![VHDL](https://img.shields.io/badge/VHDL-1f3a5f?style=flat-square) ![Verilog](https://img.shields.io/badge/Verilog-1f3a5f?style=flat-square) ![AMD Vivado](https://img.shields.io/badge/AMD_Vivado-ED1C24?style=flat-square&logo=amd&logoColor=white) ![Tcl](https://img.shields.io/badge/Tcl-1f3a5f?style=flat-square)
+**Languages** ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![Bash](https://img.shields.io/badge/Bash-121011?style=flat-square&logo=gnubash&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+**ML & data** ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) ![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+**Infra** ![Debian](https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white) ![nginx](https://img.shields.io/badge/nginx-009639?style=flat-square&logo=nginx&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000?style=flat-square&logo=flask&logoColor=white) ![Gunicorn](https://img.shields.io/badge/Gunicorn-499848?style=flat-square&logo=gunicorn&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)
