@@ -22,8 +22,6 @@ I design FPGA firmware on AMD/Xilinx devices, build DSP and data tools in Python
 | [**DeepRadio**](https://github.com/deepotrus/deepradio) | Minimal terminal radio — [**listen on the web**](https://radio.techdystopia.xyz) | Bash · TypeScript |
 
 ## Stack
-
-| | |
 |---|---|
 | **Hardware** | ![VHDL](https://img.shields.io/badge/VHDL-1f3a5f?style=flat-square) ![Verilog](https://img.shields.io/badge/Verilog-1f3a5f?style=flat-square) ![AMD Vivado](https://img.shields.io/badge/AMD_Vivado-ED1C24?style=flat-square&logo=amd&logoColor=white) ![Tcl](https://img.shields.io/badge/Tcl-1f3a5f?style=flat-square) |
 | **Languages** | ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![Bash](https://img.shields.io/badge/Bash-121011?style=flat-square&logo=gnubash&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) |
